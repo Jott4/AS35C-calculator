@@ -20,7 +20,8 @@ public class Main {
                     "Soma\n" +
                     "Subtrai\n" +
                     "Multiplica\n" +
-                    "Divide");
+                    "Divide\n" +
+                    "Exponenciacao");
             String type = sc.next();
 
             Class clazz = Class.forName("com.company."+ type);
