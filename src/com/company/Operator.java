@@ -1,5 +1,5 @@
 package com.company;
 
 public interface Operator {
-    public float calcula(float a, float b);
+    double calcula(double n1, double n2);
 }
