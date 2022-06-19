@@ -1,4 +1,4 @@
-package com.company;
+package company;
 
 public class Soma implements Operator {
     public double calcula(double n1, double n2) {
